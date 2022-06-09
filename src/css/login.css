@@ -1,0 +1,23 @@
+.Fullpage {
+    height: 500px;
+    background-position: fixed;
+}
+
+.Logincredentials {
+    width: 300px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin-top: 100px;
+    border-radius: 10px;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+h3 {
+    padding-top: 0px;
+    font-size: 2em;
+    font-style: italic;
+    text-align: center;
+}
